@@ -1,4 +1,4 @@
-<img src="https://github.com/Godson-Thomas/Image_Processing---Facial-Detection-Using-OpenCV/blob/master/Images/1.png" width="300"> <br><br>
+<img src="https://github.com/Godson-Thomas/Image_Processing---Facial-Detection-Using-OpenCV/blob/master/Images/1.png" width="250"> <br><br>
 # COMPUTER VISION
 Computer Vision, often abbreviated as CV, is defined as a field of study that seeks to develop techniques to help computers “see” and understand the content of digital images such as photographs and videos.Moreover Computer vision focuses on replicating parts of the complexity of the human vision system and enabling computers to identify and process objects in images and videos in the same way that humans do.<br>
 Here we are going to detect face from an image by using **HAAR CASCADE** classifier.
