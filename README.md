@@ -18,7 +18,7 @@ OpenCV (Open Source Computer Vision) is a library of programming functions mainl
 pip install opencv-python
 ```
 <br>
-<img src="https://github.com/Godson-Thomas/Image_Processing---Facial-Detection-Using-OpenCV/blob/master/Images/2.png" width="500" height=100>  <br><br> 
+<img src="https://github.com/Godson-Thomas/Image_Processing---Facial-Detection-Using-OpenCV/blob/master/Images/2.png" width="500" height=75>  <br><br> 
 
 4. Download the HAAR CASCADE. [click here]()<br><br>
 * ## Code
