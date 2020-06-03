@@ -1,4 +1,4 @@
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/P.png" width="400"> <br><br>
+<img src="https://github.com/Godson-Thomas/Image_Processing---Facial-Detection-Using-OpenCV/blob/master/Images/1.png" width="400"> <br><br>
 # COMPUTER VISION
 Computer Vision, often abbreviated as CV, is defined as a field of study that seeks to develop techniques to help computers “see” and understand the content of digital images such as photographs and videos.Moreover Computer vision focuses on replicating parts of the complexity of the human vision system and enabling computers to identify and process objects in images and videos in the same way that humans do.<br>
 Here we are going to detect face from an image by using **HAAR CASCADE** classifier.
@@ -18,7 +18,7 @@ OpenCV (Open Source Computer Vision) is a library of programming functions mainl
 pip install opencv-python
 ```
 <br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/P.png" width="400">  <br><br> 
+<img src="https://github.com/Godson-Thomas/Image_Processing---Facial-Detection-Using-OpenCV/blob/master/Images/2.png" width="400">  <br><br> 
 
 4. Download the HAAR CASCADE. [click here]()<br><br>
 * ## Code
@@ -70,7 +70,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 <br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/P.png" width="400">
+<img src="https://github.com/Godson-Thomas/Image_Processing---Facial-Detection-Using-OpenCV/blob/master/Images/3.png" width="400">
 
 
 13. You can also display the rectangle in the coloured image by replacing 
@@ -78,4 +78,7 @@ cv2.destroyAllWindows()
  final_img=cv2.rectangle(resized_img,(x,y),(x+w,y+h),(255,0,0),3)
  ```
  ### Note : 
- Coloured images are 3D numpy array while the other is 2D. So when there are lots of images, it is better to convert it to a gray scale image for the algorithm to perform calculations effectively.<br><br>  <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/P.png" width="400">  <br><br>
+ Coloured images are 3D numpy array while the other is 2D. So when there are lots of images, it is better to convert it to a gray scale image for the algorithm to perform calculations effectively.<br><br>  <img src="https://github.com/Godson-Thomas/Image_Processing---Facial-Detection-Using-OpenCV/blob/master/Images/4.png" width="400">  <br><br>
+
+### Full Code :
+[click here](https://github.com/Godson-Thomas/Image_Processing---Facial-Detection-Using-OpenCV/blob/master/F_Image_Code.ipynb)
