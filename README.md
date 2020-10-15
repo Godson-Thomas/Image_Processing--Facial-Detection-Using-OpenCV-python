@@ -12,7 +12,7 @@ OpenCV (Open Source Computer Vision) is a library of programming functions mainl
 
 
 1. We will be using Jupyter Notebook for writing the code.Make sure you have Jupyter Notebook installed.<br><br>
-2. Lauch your Jupyter Notebook<br><br>
+2. Lauch your Jupyter Notebook.<br><br>
 3. Now we have to install the OpenCV library.Type the code in the cell of Jupyter Notebook and run it.
 ```
 pip install opencv-python
